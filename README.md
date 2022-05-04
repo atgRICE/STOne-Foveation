@@ -9,6 +9,10 @@ This is accomplished by taking advantage of the downsampling property of the STO
 
 ![Fig_2_snip](https://user-images.githubusercontent.com/44003292/166619927-f9988804-1692-4e98-a494-4db76988ec9b.PNG)
 
+To obtain the hyperspectral video data, obtain the "Ball" test data from here: https://bearshng.github.io/mht/.
+
+Hyperspectral static data available upon request.
+
 If you use this code, please cite the original paper:
 
 Giljum, A.T. and Kelly, K.F., "On-the-Fly Compressive Single-Pixel Foveation using the STOne Transform," _Opt. Expr._, 2022.
