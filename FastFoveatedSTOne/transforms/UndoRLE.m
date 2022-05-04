@@ -1,9 +1,7 @@
 %%  
-%  This function performs the STO transform by calling the c implementation
-%  of STO_fast.  This method can be called on either a vector or a matrix.
-%  When called on a matrix, it performs a separate transform on each
-%  column.
-
+%  This function undoes the RLE by calling the c implementation of
+%  STO_fast.  This method can be called on either a vector or a matrix.
+%  When called on a matrix, it acts separately on each column.
 
 function [ out ] = UndoRLE(x,record_ds,fovParams)
 
