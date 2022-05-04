@@ -9,7 +9,7 @@ This is accomplished by taking advantage of the downsampling property of the STO
 
 ![Fig_2_snip](https://user-images.githubusercontent.com/44003292/166619927-f9988804-1692-4e98-a494-4db76988ec9b.PNG)
 
-To obtain the hyperspectral video data, obtain the "Ball" test data from here: https://bearshng.github.io/mht/.
+The "Ball" hyperspectral video data used in the paper can be obtained from: https://bearshng.github.io/mht/.
 
 Hyperspectral static data available upon request.
 
